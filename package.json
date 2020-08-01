@@ -2,6 +2,11 @@
   "engines": {
     "node": ">=12"
   },
+  
+  "scripts": {
+    "start": "node index.js"
+  },
+
     "name": "onebit_exchange",
     "private": true,
     "dependencies": {
