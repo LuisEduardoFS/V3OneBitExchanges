@@ -21,10 +21,26 @@
             }
 
             .btn-exchange{
-                background-color: #5bc0de;
                 border-color: #5bc0de;
                 border-radius: 0;
             }
+
+            .btn{
+              background-color: #5bc0de;
+              border-color: #5bc0de;
+              border-radius: 0;
+              padding-bottom: 5px;
+              
+              .title{
+                color: white;
+              }
+              .card-block{
+                padding-top: 5px;
+                padding: 10px;
+              }
+            
+            }
+           
         }
     }
 }

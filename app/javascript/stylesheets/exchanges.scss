@@ -1,5 +1,5 @@
 body {
-  background: url("~images/background-img.jpg") no-repeat center center fixed;
+  background: url("~images/backgroundMod-img.jpg") no-repeat center center fixed; 
   -webkit-backdrop-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -15,13 +15,13 @@ body {
   margin-top: 20%;
 
   .title{
-    color: white;
-    text-shadow: 2px 0px 0px #000000;
+    color: black;
+    text-shadow: 2px 0px 0px #f7f4f4;
   }
 
   .subtitle{
-    color: white;
-    text-shadow: 2px 2px 0px #000000;
+    color: black;
+    text-shadow: 2px 2px 0px #f7f4f4;
     font-size: 30px;
     margin-left: 10px;
     margin-right: 10px;
